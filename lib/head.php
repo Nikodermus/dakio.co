@@ -33,7 +33,7 @@ $facebook_id = '000000000' ;
         <meta name="application-name" content="<?php echo $site_name ?>">
 
         <!--Open Graph data -->
-        <meta property="fb:page_id" content="<?php echo $facebook_id ?>" />
+        <meta property="fb:app_id" content="<?php echo $facebook_id ?>" />
         <meta property="og:title" content="<?php echo $title ?>" />
         <meta property="og:site_name" content="<?php echo $site_name ?>" />
         <meta property="og:url" content="http://www.<?php echo $site_url ?>" />
@@ -43,6 +43,7 @@ $facebook_id = '000000000' ;
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="630" />
         <meta property="og:locale" content="<?php echo $language ?>">
+        <meta property="og:description" content="<?php echo $description ?>" />
 
         <!--Google+ data-->
         <meta itemprop="image" content="http://www.<?php echo $site_url ?>/assets/schema-preview.jpg">

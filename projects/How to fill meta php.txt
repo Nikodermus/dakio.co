@@ -1,0 +1,49 @@
+Brief guide on how to feel each meta.php file:
+
+To count characters online: http://www.charactercountonline.com/
+
+title:
+    55 Characters
+    Must end in "| Dakio.co"
+    i.e. "Best Website in the World | Dakio.co"
+    
+description:
+    150 Characters
+    Try not to use punctuation
+    For special characters (#, ', @) use ascii html code, see here: http://www.asciitable.com/
+    i.e. "Dakio is a great digital agency thought for the needs of those that want to create something unique by the best ways"
+
+keywords:
+    10 Keywords
+    They should not repeat
+    Don't use special characters
+    In case you don't know which word is the best, look it up at: https://www.google.com/trends/
+    i.e. "website, design, digital agency, web development, editorial design, illustration, post-production, bogota, freelance, awesome"
+    
+description_text:
+    2 Paragraphs
+    Use full punctuation
+    For special characters, use ascii html code
+    For dividing the two (or more) paragraphs, use <br> in between
+    i.e. "ColorShine, a social network for kids that features roles for parents and teacher becoming it into a complete learning and drawing platform, with so much to tell and kids as their primary target, a long boring read was no option to show off the idea.<br>The app was specially for children and the animation we created reflected exactly that, and safe space for the younglings to learn, draw and have a blust with an adult overwatching the whole process."
+
+category[1,2,3,4]:
+    4 Keywords
+    Different from those used in $keywords
+    Concepts should match at the field of creation rather in the specific topic of the project
+    i.e. "Web Design", "Web Development", "Mobile-first", "SEO"
+    
+title_project:
+    20 Characters
+    Should reflect the client or name of the project
+    Don't use punctuation
+    i.e. "Apple Watch Website"
+
+category_project:
+    20 Characters
+    Main category for the project
+    Don't use punctuation
+    i.e. "Website Design"
+
+    
+    
