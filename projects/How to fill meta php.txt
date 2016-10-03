@@ -10,7 +10,7 @@ title:
 description:
     150 Characters
     Try not to use punctuation
-    For special characters (#, ', @) use ascii html code, see here: http://www.asciitable.com/
+    For special characters (#, ', @) use ascii html code, see here: http://www.tedmontgomery.com/tutorial/htmlchrc.html
     i.e. "Dakio is a great digital agency thought for the needs of those that want to create something unique by the best ways"
 
 keywords:
