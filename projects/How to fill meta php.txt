@@ -15,6 +15,7 @@ description:
 
 keywords:
     10 Keywords
+    We should always have “dakio” as keyword
     They should not repeat
     Don't use special characters
     In case you don't know which word is the best, look it up at: https://www.google.com/trends/

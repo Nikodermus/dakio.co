@@ -1,13 +1,13 @@
 <?php 
 //This meta info should change for each page
-$title = 'Epic Magazine Dakio.co' ; 
-$description = 'Magazine About Pre-Columbian Culture' ; 
-$keywords = 'magazine, epic, design, dakio' ;
-$description_text = 'Long Text' ;
-$category1 ='word' ;
-$category2 ='word' ;
-$category3 ='word' ;
-$category4 ='word' ;
-$title_project ='Meh Magazine' ;
-$category_project ='Editorial Design' ;
+$title = 'Poster with typograhic families | Dakio' ; 
+$description = 'Design about of typographic families and their different styles' ; 
+$keywords = 'typograhic design, poster, styles, unipanamericana, dakio, typographic families, conceptos, union, ,' ;
+$description_text = 'Cenefas elaboradas a partir del concepto de las diferentes familias tipograficas existentes y sus estilos, representando asi una innovadora manera de mostrar dichas familias' ;
+$category1 ='Typographic Design' ;
+$category2 ='Cenefa' ;
+$category3 ='Typographic Families' ;
+$category4 ='' ;
+$title_project ='Cenefas Tipograficas' ;
+$category_project ='Typographic Design' ;
       ?>

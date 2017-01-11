@@ -1,14 +1,13 @@
 <?php 
-//This meta info should change for each page
-$title = 'Title' ; 
-$title = 'Epic Magazine Dakio.co' ; 
-$description = 'Magazine About Pre-Columbian Culture' ; 
-$keywords = 'magazine, epic, design, dakio' ;
-$description_text = 'Long Text' ;
-$category1 ='word' ;
-$category2 ='word' ;
-$category3 ='word' ;
-$category4 ='word' ;
-$title_project ='Meh Magazine' ;
+//This meta info should change for each page 
+$title = 'Articles for Editorial Class | Dakio' ; 
+$description = 'Editorial design with botanic content' ; 
+$keywords = ', epic, design, dakio' ;
+$description_text = 'Articulos de diseño editorial dedicados a la propagacion de la informacion referente a conceptos de botanica' ;
+$category1 ='Botanica' ;
+$category2 ='Diseño Editorial' ;
+$category3 ='Articulo' ;
+$category4 ='' ;
+$title_project ='Botanic Article' ;
 $category_project ='Editorial Design' ; 
       ?>
